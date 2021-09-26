@@ -1,1 +1,1 @@
-# CardDeliveryOrderDateChange [![Build status](https://ci.appveyor.com/api/projects/status/16ghwjm0fugnagcy?svg=true)](https://ci.appveyor.com/project/Tanya-ui-hub/carddeliveryorderdatechange)
+# CardDeliveryOrderDateChange [![Build status](https://ci.appveyor.com/api/projects/status/vkd737no5t4qod0n?svg=true)](https://ci.appveyor.com/project/Tanya-ui-hub/allure)
